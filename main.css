@@ -1,11 +1,16 @@
 p {
   background-color: yellow;
-  margin: 0;
-
+  margin: 2;
+  height: 40px;
+  width: 150px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 35%; 
 
 }
 
 .cajaRosa {
   background-color: #F853CD;
-  border: 1px solid black;
+  height: 40px;
+  width: 150px;
+  font-family: 'Josefin Sans', sans-serif;
 }
