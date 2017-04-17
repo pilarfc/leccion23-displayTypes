@@ -4,7 +4,7 @@ p {
   height: 40px;
   width: 150px;
   font-family: 'Josefin Sans', sans-serif;
-  margin-left: 35%; 
+  display: inline;
 
 }
 
